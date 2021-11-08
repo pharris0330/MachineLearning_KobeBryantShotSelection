@@ -60,13 +60,13 @@ Classification analysis of the late Kobe Bryant's shot selection details. Can an
 
 #### EDA
 
-* The years he made most of his shots had many nulls
+* The years he made most of his shots had many nulls.
 
 * The nulls seem to match the number of games he played. 
 
-
+.
 ### Future anlysis
 
-* Would like to use groupby sum and count to see if there were any 
+* Would like to use groupby sum and count to see if there were any trends to extrapolate.
 
-* Conduct a variable correlation
+* Conduct a variable correlation.
